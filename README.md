@@ -30,11 +30,8 @@
 8. **Game Manager Responsibilities**: Certain responsibilities, such as laser activation, rotation timing, and overall game management, are assumed to be handled by a separate entity referred to as the "robot manager" or "game manager."
 
 ## Usage
-1. **Training the Model with Hyperparameters**:
-   - Hyperparameters include the number of dots to follow for the linear function(or nn.Linear), step size, angle step size, and search angles.
-   - These hyperparameters can be adjusted for optimal performance.
 
-2. **Starting the Robot**:
+1. **Starting the Robot**:
    - Use `GoalKeeper.run()` to start the robot.
 
 ## Methods
@@ -120,5 +117,5 @@ Enhance the object recognition process by implementing deep learning techniques 
 3. Train the CNN using the labeled dataset to accurately identify objects.
 4. Integrate the trained CNN into the robot's code for real-time object recognition during gameplay.
 
-These enhancements not only improve static object recognition but also equip the robot to effectively deal with the challenges posed by moving objects during gameplay.
+
 
