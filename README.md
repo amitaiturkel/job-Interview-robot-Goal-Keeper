@@ -68,7 +68,7 @@
 
 ## How to Use
 1. **Import the GoalKeeper class**.
-2. **Instantiate an object** of the GoalKeeper class, providing the team ID.
+2. **Instantiate an object** of the GoalKeeper class
 3. **Call the `run()` method** to start the robot's main logic.
 
 ## Notes
