@@ -9,8 +9,8 @@
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/amitaiturkel/CyberArkInterview-robot.git
-   cd CyberArkInterview-robot
+   git clone https://github.com/amitaiturkel/job-Interview-robot-Goal-Keeper.git
+   cd job-Interview-robot-Goal-Keeper
    # Install Dependencies using Poetry
    poetry install
    # Activate Virtual Environment
